@@ -48,9 +48,9 @@ chmod +x patchapp.sh optool
 ### **STEP 6**: Type the following into the Terminal, **where you should still be in the unzipped file location**.
 
 ```
-./patchapp.sh patch path/to/PokemonGo.ipa path/to/your/mobile/provisioning/profile
+./patchapp.sh patch PokemonGo.ipa 
 ```
-You can just drag your previously located provisioning profile from the Finder into the Terminal.
+Then you can just drag your previously located provisioning profile from the Finder into the Terminal.
 
 **HIT ENTER**
 
